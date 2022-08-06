@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/image-carousel/static/css/main.1e84f1fd.css",
+    "main.js": "/image-carousel/static/js/main.012a88de.js",
+    "static/js/787.271608b6.chunk.js": "/image-carousel/static/js/787.271608b6.chunk.js",
+    "static/media/cake.jpg": "/image-carousel/static/media/cake.52a2ca09be7450ce374f.jpg",
+    "static/media/street.jpg": "/image-carousel/static/media/street.04492cf4431772a71705.jpg",
+    "static/media/tea-and-cake.jpg": "/image-carousel/static/media/tea-and-cake.450d4485e3921e500240.jpg",
+    "static/media/norwich.jpg": "/image-carousel/static/media/norwich.70d13fa1941808386baa.jpg",
+    "static/media/scone2.jpg": "/image-carousel/static/media/scone2.64f0d0627ed1ae55393b.jpg",
+    "index.html": "/image-carousel/index.html",
+    "main.1e84f1fd.css.map": "/image-carousel/static/css/main.1e84f1fd.css.map",
+    "main.012a88de.js.map": "/image-carousel/static/js/main.012a88de.js.map",
+    "787.271608b6.chunk.js.map": "/image-carousel/static/js/787.271608b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e84f1fd.css",
+    "static/js/main.012a88de.js"
+  ]
+}
